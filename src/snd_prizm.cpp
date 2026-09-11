@@ -3,7 +3,7 @@
 
 #include "snd.h"
 #include "snd_private.h"
-#include "..\ptune2_simple\Ptune2_direct.h"
+#include "Ptune2_direct.h"
 #include "fxcg/serial.h"
 #include "fxcg/display.h"
 
